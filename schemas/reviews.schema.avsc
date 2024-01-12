@@ -1,7 +1,7 @@
 {
   "type": "record",
   "name": "customers_review_schema",
-  "namespace": "com.airscholar",
+  "namespace": "com.natmin",
   "doc": "Schema for customer reviews",
   "fields": [
     { "name": "review_id",  "type": "string" },
